@@ -1,3 +1,18 @@
+# Overview
+This project utilizes the [OpenLibrary API](https://openlibrary.org/developers/api) to search books, and add them to your personal library. 
+
+
+## Organization 
+- The following structure is used
+Pages: these contain the logic for specific pages. 
+Layouts: things like sidebars, navigation, container, etc. 
+Utils: to story our formatters and other utility functions
+data: stores data assets. Such as constants, environment variables, global things.
+Context: context across the apps.(can also be used with redux)
+Assets: Font files, images, etc
+components: components related to the project.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

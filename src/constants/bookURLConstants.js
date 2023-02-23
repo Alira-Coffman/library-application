@@ -1,0 +1,1 @@
+export const EDITIONSURL = 'https://openlibrary.org/books/';
